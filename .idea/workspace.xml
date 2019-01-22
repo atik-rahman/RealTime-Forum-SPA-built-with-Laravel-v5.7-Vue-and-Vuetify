@@ -2,466 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30a618e-73c0-4be5-ac82-5f97757056af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/flat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/flat@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/flat/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/futurico/futurico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/futurico/futurico@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/line/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/line/line@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/minimal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/minimal@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/minimal/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/polaris/polaris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/polaris/polaris@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/square@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icheck/square/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/0.75x/InnStar Logo - Left Partldpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/1.5x/InnStar Logo - Left Parthdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/1x/InnStar Logo - Left Partmdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/2x/InnStar Logo - Left Partxhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/3x/InnStar Logo - Left Partxxhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/4x/InnStar Logo - Left Partxxxhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/0.75x/Artboard 1ldpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/1.5x/Artboard 1hdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/1x/Artboard 1mdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/2x/Artboard 1xhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/3x/Artboard 1xxhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/4x/Artboard 1xxxhdpi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/Full Logo/SVG/Artboard 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Exported as Assets/SVG/InnStar Logo - Left Part.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/Logo Color Codes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/base64/Left Part - 100 x 141.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/base64/Left Part - 36 x 50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/base64/Masatik  - 200 x 46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/base64/Masatik  - 215 x 50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/base64/Right Part - 138 x 50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-developer-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-developer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-innstar-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-innstar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-left-part.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logos/logo-right-part.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/bg-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/fb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/ice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/in.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/snow_rain.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/tw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/backgrounds/wind_turbine.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/bootstrap-colorpicker/alpha-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/bootstrap-colorpicker/alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/bootstrap-colorpicker/hue-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/bootstrap-colorpicker/hue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/bootstrap-colorpicker/saturation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/carousel/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/crop-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/details_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/details_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/examples.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/syntax/Syntax Highlighter license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/syntax/shCore.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/datatables/resources/syntax/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/doc-images/stack-build-process.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/air-jordan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/apple-watch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/fitbit-watch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/samsung-gear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/sws.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/elements/vr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/al.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/az.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ca.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/co.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ct.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/fl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ga.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/id.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/il.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/la.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/md.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/me.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/mi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/mn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/mt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/nv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/oh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/or.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/pa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/sc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/sd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/tx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/ut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/va.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/vt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/wa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/wi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/wv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/flags/wy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/gallery/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/apple-icon-120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/apple-icon-152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/apple-icon-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/apple-icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/favicon-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/ico/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/browser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/btc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/chrome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/error.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/eth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/firefox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/ie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/ltc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/nike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/opera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/play-pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/play-pause.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/progressbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/repo-forked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/repo-source.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/safari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/textarea-expand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/thumbs-up.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/video-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/video-play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/icons/xrp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jqueryui/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jqueryui/ui-anim_basic_16x16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jqueryui/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/globe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/marker/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/jvqmap/tip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-dark-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-light-is-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-light-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/fitness-profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/fitness-shoes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/fitness-slide-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/fitness-slide-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/fitness-slide-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/signature-scan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/ubuntu-type-scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/pages/windows-type-scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/portfolio-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-1200/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-1200/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-1200/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-1200/portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portfolio/width-600/portfolio-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/medium/avatar-m-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/portrait/small/avatar-s-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/cancel-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/cancel-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/heart-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/like-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/smiley/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/smiley/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/smiley/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/smiley/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/smiley/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-half-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-half-mono-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-half-mono.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-half.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-off-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-on-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/raty/star-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/slider/slider-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/svg/cd-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/modern-theme/svg/magnifier.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/profiles/default.female.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/profiles/default.male.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Like.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Like.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ReplyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ReplyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Category.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Model/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Question.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Model/Reply.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/Reply.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/CategoryFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/CategoryFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/LikeFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/QuestionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/QuestionFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/ReplyFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ReplyFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_01_14_172538_create_questions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_01_14_172538_create_questions_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -475,106 +24,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Question.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Model/Question.php">
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/api.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="72" />
+            <state relative-caret-position="168">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reply.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Model/Reply.php">
+      <file leaf-file-name="ReplyController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ReplyController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="588">
+              <caret line="56" column="63" selection-start-line="56" selection-start-column="63" selection-end-line="56" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Like.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Model/Like.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Category.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuestionFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/QuestionFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="laravel-2019-01-17.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-01-17.log">
+      <file leaf-file-name="laravel-2019-01-22.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-01-22.log">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="ReplyFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/ReplyFactory.php">
+      <file leaf-file-name="CategoryController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="84">
+              <caret line="48" column="47" lean-forward="true" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/CategoryFactory.php">
+      <file leaf-file-name="Reply.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/Reply.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplyResource.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Resources/ReplyResource.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionResource.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Resources/QuestionResource.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/QuestionController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <element signature="e#232#333#0#PHP" expanded="true" />
+                <element signature="e#505#664#0#PHP" expanded="true" />
+                <element signature="e#1275#1419#0#PHP" expanded="true" />
+                <element signature="e#1530#1734#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseSeeder.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <file leaf-file-name="Question.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/Question.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LikeFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/LikeFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserFactory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Model/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
-              <caret line="18" column="113" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
+            <state relative-caret-position="616">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -594,19 +122,30 @@
         <option value="$PROJECT_DIR$/CustomTools/Layout.txt" />
         <option value="$PROJECT_DIR$/database/migrations/2019_01_14_172632_create_likes_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_01_14_172557_create_replies_table.php" />
-        <option value="$PROJECT_DIR$/app/Model/User.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
         <option value="$PROJECT_DIR$/database/factories/UserFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/CategoryFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/ReplyFactory.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_01_14_172538_create_questions_table.php" />
-        <option value="$PROJECT_DIR$/app/Model/Question.php" />
         <option value="$PROJECT_DIR$/storage/logs/laravel-2019-01-17.log" />
         <option value="$PROJECT_DIR$/database/factories/QuestionFactory.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/database/factories/LikeFactory.php" />
         <option value="$PROJECT_DIR$/app/Model/Like.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Question.php" />
+        <option value="$PROJECT_DIR$/app/Model/Question.php" />
+        <option value="$PROJECT_DIR$/app/Model/User.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel-2019-01-21.log" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/QuestionController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Category.php" />
         <option value="$PROJECT_DIR$/app/Model/Reply.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/CategoryResource.php" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/QuestionResource.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/ReplyResource.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel-2019-01-22.log" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ReplyController.php" />
       </list>
     </option>
   </component>
@@ -742,6 +281,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -771,30 +311,14 @@
               <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
               <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-              <item name="factories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="realtime.forum" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-              <item name="seeds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="realtime.forum" type="b2602c69:ProjectViewProjectNode" />
@@ -811,13 +335,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="lara&#9;FILE&#9;file://D:/Server/ProjectRoots/realtime.forum/storage/logs/laravel-2019-01-21.log" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lara-enso" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -857,12 +381,17 @@
       <workItem from="1547486202639" duration="1560000" />
       <workItem from="1547569929989" duration="6663000" />
       <workItem from="1547697208212" duration="1969000" />
-      <workItem from="1547741217279" duration="4488000" />
+      <workItem from="1547741217279" duration="5794000" />
+      <workItem from="1547839379921" duration="850000" />
+      <workItem from="1547912208673" duration="1488000" />
+      <workItem from="1547995794265" duration="597000" />
+      <workItem from="1548066749666" duration="7895000" />
+      <workItem from="1548171627148" duration="4521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14680000" />
+    <option name="totallyTimeSpent" value="31337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1834" height="1096" extended-state="6" />
@@ -874,8 +403,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32293987" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32293987" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27210885" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -897,20 +426,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Model/Question.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Reply.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -1096,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_01_14_172557_create_replies_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1124,24 +632,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_01_14_172538_create_questions_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Question.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -1152,47 +646,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="18" column="113" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/QuestionFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="280">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-01-17.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/ReplyFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="112">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="112">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/CategoryFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="196">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
@@ -1211,10 +695,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/CategoryResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/QuestionResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Model/Reply.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="308">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="48" column="47" lean-forward="true" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/ReplyResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-01-22.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/QuestionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#232#333#0#PHP" expanded="true" />
+            <element signature="e#505#664#0#PHP" expanded="true" />
+            <element signature="e#1275#1419#0#PHP" expanded="true" />
+            <element signature="e#1530#1734#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ReplyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="56" column="63" selection-start-line="56" selection-start-column="63" selection-end-line="56" selection-end-column="63" />
         </state>
       </provider>
     </entry>

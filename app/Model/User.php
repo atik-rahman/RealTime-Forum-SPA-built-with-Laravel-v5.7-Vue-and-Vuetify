@@ -28,8 +28,14 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 
+    protected $appends = ['fullname'];
+
     public function questions(){
         return $this->hasMany(Question::class);
+    }
+
+    public function getFullnameAttribute(){
+        return $this->firstname .' '.$this->lastname;
     }
 
 }

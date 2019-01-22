@@ -9,7 +9,7 @@ use App\Model\Like;*/
 
 class Reply extends Model
 {
-    protected $fillable = [];
+    protected $fillable = ['body','user_id','question_id'];
 
     public function user(){
         return $this->belongsTo(User::class);
